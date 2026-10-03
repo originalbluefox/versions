@@ -1,38 +1,8 @@
 {
-    "echobot": {
-      "old": [
-        {
-          "version": "0.7.8",
-          "notes": [
-            "+ category specific tickets += request from Ian",
-            "+- Change name to Echo Moderation"
-          ]
-        },
-        {
-          "version": "0.7.9",
-          "notes": [
-            "+ Ticket System update",
-            "-> /config allows you to add new specifc tickets to corresponding categories",
-            "-> /config allows you to update new ticket channel permissions per specific ticket subcategory",
-            "-> /config only configures ticket system (currently)",
-            "+ All new modal/menu handler",
-            "-> Will allow for future use of drop-down menus",
-            "-> new /handlers/",
-            "-> new DYNAMIC drop down menus for tickets"
-          ]
-        }
-      ],
-      "version": "0.8.2",
-      "notes": [
-        "IMPORTANT: This is the lastest version, last updated sometime June 2025. As of October 15, 2025 there are no plans to continue development",
-        "Urgent Action Required: All versions need to be updated to the lastest version due to improperly configured /config command",
-        "Thanks for the support",
-        "Kyra"
-      ]
-      
-    },
     "focusHelper":{
         "version": "1.2.8"
-    }
-  }
+    },
+    "projectAether": {
+        "version":"v1"
+}
   
